@@ -1,0 +1,57 @@
+django 
+use for web developent 
+it is framework of python
+flask is also anoter framwork that is used in it
+django works on MVT pattern (model view templets)
+
+Framwork =
+  a framework is a particular set of rules , ideas ,or beliefs which you use in order to deal with problems or to decide what to do
+
+What is django -
+. django is basically a high-level python web application      framework that enables the rapid development of web application
+. Open-source Python framework 
+. follows the model-view templat architectural pattern.
+. most popular python framework
+
+why we use django -
+.fast and simple
+.it is secure
+.suits any web applicationtion project
+.it's well-established
+.MVT support and object-orianted 
+. built in authentication and authorization
+. packaging System
+
+which companies uses django? 
+  youtube , Disqus , instagram, spotify , the washington past , Bitbucket ,Dropbox ,    etc.
+
+
+
+
+
+
+class 2 => 
+
+prerewuisite & inside the course-
+ python syntex
+ HTML , CSS , JavaScript , 
+
+what is inside the cource ?
+ setup & understanding django project
+ working with Forms
+. urls,routes & VIews
+. Templates & static Files
+. Data , Models  Relationships
+. Class-based Views
+. file uploads
+. Sessions
+. Cookies
+. Many Small Examples
+. A Real Project (Building a Blog)
+. Fronted+Admin Area
+. in-Depth Deployment Guide
+. Ecommerce
+
+
+
+ 

@@ -1,0 +1,28 @@
+CLASS 3 -
+
+MVP (model VIew Template)-
+ the mvt is a software deisgn pattern.
+. it is a collection of three important components model view and template.
+. Model: model is going to act as the interface of your data.
+. View: the view is the user interface- what you see in your
+ browser when you render a websete.(function based view and class bsed view)
+.Template: A template consists of static parts of the desired HTML output as    some special syntax describing how dynamic content will be inserted.
+
+
+flow chart of MVT:
+  User <-> django <-> URL <-> View <-> (Model and Template)
+
+
+CLASS 4:
+  INstalling python & Django
+
+class 5 :
+  django-admin = to see installed app/other with django
+  django-admin startproject (project name)  = to create project
+  
+
+CLASS 6 :
+. python manage.py runserver = to run project
+. ctrl+C  = to break/stop server 
+. python manage.py runserver (4 digit no.) = to change port from default(8000) to your wish (4 digit no)
+. 

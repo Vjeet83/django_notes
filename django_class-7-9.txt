@@ -1,0 +1,37 @@
+CLASS 7:-
+  use django with vs code
+
+CLASS 8:-
+  in setting -  Debug = true -> show the error
+                        False -> dont show the error
+                secret_key = generate it self when app created
+                Allowed_host=
+                installed_Apps=  register the app here that created by you 
+                Middleware= create restrication (example- user cant go on dashbord without login)
+                ROOT_URLCONF = list of urls
+                TEMPLATES= pass the address/path of templates 
+                DATABASES=
+                AUTO_PASSWORD_VALIDATORS=
+                LANGUAGE= default_language= english-us
+                TIMEZONE=  we can change time zone
+                USE_L10N =
+                STATIC_URL=
+                DEFAULT_AUTO_FIELD=
+                
+
+ IN URL   -:    urlpatterns =
+ 
+ IN VIEWS  :-   
+
+
+CLASS 9 :-
+   
+ HOW TO MIGRATE  DEFAULT MIGRATION-
+   
+.  jab  crud operation karate h tb ye use kia jate h
+.  python me django me default database ke rup me "sqlite 3" database use karta h
+.  jab runserver karte h tb sqlite or admin panel bhi sath me   create karke dedeta h
+. iske alava sqlite 3 ki jagah oracle, mysql, sqlserver etc bhi use kar sakte h apni requirement ke accordding
+  iske lie setting me database me changes krne hoge
+. "python manage.py migrate" terminal pr chalate hi kuch default table create ho jati h 
+.  ye table normally nahi dekh sakte h ikse lie hame db braouser install karna hoga

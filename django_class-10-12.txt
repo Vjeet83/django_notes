@@ -1,0 +1,39 @@
+CLASS 10 -
+
+ INSTALL DB(DATABASE) BROWSER FOR SQLLITE-
+
+.  bcz we will run crud oppration on database so we need to see tables and it is not possible without a special browser as db browser
+. download dbbrowser for sqlite sutalbe to your pc and install it 
+
+
+CLASS 11-
+ 
+CREATE SUPERUSER IN DJANGO-
+ 
+. COMAND-python mange.py createsuperuser
+     then we have to give three info  
+     1. user name( as ur wish)    2.email     3. password create then conform your password
+  now your super user has been created 
+
+
+
+CLASS 12-
+  
+CREATE URLs & VIEWs IN DJANGO-
+ it will  present in project folder 
+. crete views file 
+. write - from django.http import dttpresponse
+. we can import render also , with the help of render we can render html page
+. we can also use http response ,it will display your response on  browser  (if we want to show text massage on browser)
+. we will create a function ,remembr that the name of function will be used to CALL on website
+.example (
+ def about_us(request):
+	return httpresponse("welcome to our website")
+
+. it cannot be called untill we do not give path of this on urls.py that is present in project folder 
+
+code to write in urls.py-
+   from (project_name) import views
+   (now give path in urlpatterns )-
+    path("about-us" , views.about_us)
+now it will work when we call about us

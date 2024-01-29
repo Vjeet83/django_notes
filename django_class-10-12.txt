@@ -1,9 +1,10 @@
 CLASS 10 -
 
- INSTALL DB(DATABASE) BROWSER FOR SQLLITE-
+ INSTALL DB(DATABASE) BROWSER FOR SQLLITE -
 
 .  bcz we will run crud oppration on database so we need to see tables and it is not possible without a special browser as db browser
 . download dbbrowser for sqlite sutalbe to your pc and install it 
+insted use mysql for  use database
 
 
 CLASS 11-
